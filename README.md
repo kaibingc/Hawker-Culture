@@ -3,6 +3,7 @@
 ### To run:
 
 cd react-app
+
 npm start
 
 Runs the app in the development mode.
